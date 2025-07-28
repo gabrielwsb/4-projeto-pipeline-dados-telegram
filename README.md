@@ -12,7 +12,7 @@ Ao longo do processo, foram aplicados conceitos fundamentais de engenharia de da
 
 * Integração com APIs externas via webhook,
 
-* Processamento serverless com AWS Lambda,
+* Processamento serverless com AWS Lambda (Python),
 
 * Armazenamento estruturado e particionado no Amazon S3,
 
